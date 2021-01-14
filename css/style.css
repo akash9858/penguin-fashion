@@ -41,20 +41,3 @@ p{
 .find{
     height: 400px;
 }
-@media only screen and (max-width: 600px) {
-  .find {
-      display: block;
-  }
-  body{
-      background-color: greenyellow;
-  }
-}
-.copyright{
-    height: 30px;
-    background-color:teal;
-}
-.copyright p {
-    text-align: center;
-    padding: 0px;
-    color: aliceblue;
-}
