@@ -1,0 +1,60 @@
+img.logo {
+    width: 75%;
+}
+.nav-color{
+    background-color: #31dc100f;
+}
+.nike-react{
+    height: 600px;
+    background-color: #31dc100f;
+}
+.casualShoes .find{
+    width: 85%;
+}
+.img-casual img{
+    width: 100%;
+}
+.casual-border-rad{
+    border-radius: 20px;
+}
+.find{
+    height:400px ;
+}
+.img.logo {
+    width: 75%;
+}
+ img.find-icon{
+    width: 50%;
+}
+img.img-find{
+    width: 100%;
+}
+p{
+    font-size: 15.5px;
+}
+h1, h2{
+    color: orange;
+}
+p{
+    color: #0a0a0a;
+}
+.find{
+    height: 400px;
+}
+@media only screen and (max-width: 600px) {
+  .find {
+      display: block;
+  }
+  body{
+      background-color: greenyellow;
+  }
+}
+.copyright{
+    height: 30px;
+    background-color:teal;
+}
+.copyright p {
+    text-align: center;
+    padding: 0px;
+    color: aliceblue;
+}
