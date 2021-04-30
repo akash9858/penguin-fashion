@@ -8,6 +8,10 @@ img.logo {
     height: 600px;
     background-color: #31dc100f;
 }
+.navbar-light .navbar-brand{
+display: contents;
+}
+
 .casualShoes .find{
     width: 85%;
 }
