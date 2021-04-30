@@ -45,3 +45,7 @@ p{
 .find{
     height: 400px;
 }
+.copyright {
+    text-align: center;
+    background-color: aliceblue;
+}
